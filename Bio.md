@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BrettBarrientes
+- 👀 I’m interested in IT specifically in Network Automation.
+- 🌱 I’m currently learning Python & Linux to expand my knowledge.
+- 💞️ I’m certified in CompTIA A+ & Netowrk+.
